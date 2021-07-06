@@ -33,7 +33,7 @@ GET my-index-000001/_doc/0
 ==== {api-description-title}
 You use GET to retrieve a document and its source or stored fields from a
 particular index. Use HEAD to verify that a document exists. You can
-use the `_source` resource retrieve just the document source or verify
+use the `_source` resource to retrieve just the document source or verify
 that it exists.
 
 [discrete]
